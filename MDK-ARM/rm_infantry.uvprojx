@@ -891,6 +891,11 @@
               <FileType>1</FileType>
               <FilePath>.\rmlib\kalman_filter.c</FilePath>
             </File>
+            <File>
+              <FileName>iir_filter.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\rmlib\iir_filter.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
